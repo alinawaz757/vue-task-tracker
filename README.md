@@ -7,6 +7,7 @@ yarn install
 ### Start the backend server
 ```
 yarn json-server
+```
 
 ### Compiles and hot-reloads for development
 ```
